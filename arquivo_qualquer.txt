@@ -1,1 +1,2 @@
-bla bla
+Branch 2:
+    Inclindo um texto qualquer a partir da branch 2.
