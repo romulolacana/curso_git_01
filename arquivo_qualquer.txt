@@ -1,7 +1,4 @@
 Branch 2:
     Inclindo um texto qualquer a partir da branch 2.
-<<<<<<< Updated upstream
     Mais uma stash.
-=======
     
->>>>>>> Stashed changes
